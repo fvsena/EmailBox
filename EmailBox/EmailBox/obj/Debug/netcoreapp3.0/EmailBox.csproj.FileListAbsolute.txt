@@ -1,0 +1,13 @@
+C:\Users\felipe.sena\source\repos\EmailBox\EmailBox\bin\Debug\netcoreapp3.0\EmailBox.exe
+C:\Users\felipe.sena\source\repos\EmailBox\EmailBox\bin\Debug\netcoreapp3.0\EmailBox.deps.json
+C:\Users\felipe.sena\source\repos\EmailBox\EmailBox\bin\Debug\netcoreapp3.0\EmailBox.runtimeconfig.json
+C:\Users\felipe.sena\source\repos\EmailBox\EmailBox\bin\Debug\netcoreapp3.0\EmailBox.runtimeconfig.dev.json
+C:\Users\felipe.sena\source\repos\EmailBox\EmailBox\bin\Debug\netcoreapp3.0\EmailBox.dll
+C:\Users\felipe.sena\source\repos\EmailBox\EmailBox\bin\Debug\netcoreapp3.0\EmailBox.pdb
+C:\Users\felipe.sena\source\repos\EmailBox\EmailBox\bin\Debug\netcoreapp3.0\OpenPop.dll
+C:\Users\felipe.sena\source\repos\EmailBox\EmailBox\obj\Debug\netcoreapp3.0\EmailBox.csprojAssemblyReference.cache
+C:\Users\felipe.sena\source\repos\EmailBox\EmailBox\obj\Debug\netcoreapp3.0\EmailBox.AssemblyInfoInputs.cache
+C:\Users\felipe.sena\source\repos\EmailBox\EmailBox\obj\Debug\netcoreapp3.0\EmailBox.AssemblyInfo.cs
+C:\Users\felipe.sena\source\repos\EmailBox\EmailBox\obj\Debug\netcoreapp3.0\EmailBox.csproj.CopyComplete
+C:\Users\felipe.sena\source\repos\EmailBox\EmailBox\obj\Debug\netcoreapp3.0\EmailBox.dll
+C:\Users\felipe.sena\source\repos\EmailBox\EmailBox\obj\Debug\netcoreapp3.0\EmailBox.pdb
